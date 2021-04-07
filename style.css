@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.profile {
+    border-radius: 50%;
+}
+#welcome {
+    background: linear-gradient( #000000 0%, #ffffff 100%);
+    z-index: 9;
+}
+.menu{
+    position: fixed;
+    top:0px;
+    width:100%;
+    background-color: white;
+    margin-top: 0px;
+    z-index: 10;
+}
+.links{
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size:20px;
+}
+.links:hover {
+    font-size:30px;
+}
+
+
+
+
+    
